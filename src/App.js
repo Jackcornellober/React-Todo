@@ -25,6 +25,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
+        <h2>(baby shark) todo todo tododoodoo</h2>
         <TodoList list = {this.state.listArray} />
         <TodoForm clearFunction = {this.clearCompletedHandler} addFunction = {this.addHandler}/>
       </div>
