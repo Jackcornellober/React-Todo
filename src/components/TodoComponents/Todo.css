@@ -1,0 +1,18 @@
+.completed {
+    color: green;
+    text-decoration-line: line-through;
+}
+
+.item {
+
+}
+
+input {
+    margin-top: 1.82rem;
+}
+
+button {
+    margin-left: .5rem;
+    background: lightblue;
+    border-radius: 5rem
+}
